@@ -6,4 +6,6 @@ all implement was coding in C++
 3. Binary Search   
 4. Adjancy List  
 5. Quick List   
+6. Queue(implement by array、linkedlist)  
+
 
