@@ -7,5 +7,6 @@ all implement was coding in C++
 4. Adjancy List  
 5. Quick List   
 6. Queue(implement by array、linkedlist)  
+7. Build Heap(O(n) build aka buttom up)  
 
 
